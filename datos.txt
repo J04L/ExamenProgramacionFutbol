@@ -1,0 +1,38 @@
+NGolo;Kante;Centrocampista;12
+Neymar;Junior;Delantero;1
+10;Puma;Radikal
+Gavi;Paz;Centrocampista;2
+12;Nike;Mercurial Vapor
+Luka;Modric;Centrocampista;6
+Trent;Alexander-Arnold;Defensa;3
+6;Nike;Tiempo Legend
+1;Nike;Mercurial Superfly
+Federico;Chiesa;Delantero;5
+Karim;Benzema;Delantero;8
+Pedri;Gonzalez;Centrocampista;9
+8;Puma;Xtreme
+Bukayo;Saka;Delantero;2
+Mohamed;Salah;Delantero;8
+7;Adidas;Copa Sense
+Sergio;Ramos;Defensa;3
+Phil;Foden;Centrocampista;10
+5;Adidas;X Speedflow
+Mason;Mount;Centrocampista;1
+Toni;Kroos;Centrocampista;2
+Jude;Bellingham;Centrocampista;6
+Erling;Haaland;Delantero;11
+Declan;Rice;Centrocampista;9
+2;Puma;Ultra
+Cristiano;Ronaldo;Delantero;5
+3;Nike;Phantom GT
+9;Adidas;Predator one
+Vinicius;Junior;Delantero;1
+Virgil;Van Dijk;Defensa;10
+Kylian;Mbappe;Delantero;4
+Casemiro;Leite;Centrocampista;4
+Robert;Lewandowski;Delantero;7
+Kevin;De Bruyne;Centrocampista;12
+4;Puma;Future
+Jorginho;Frello;Centrocampista;7
+Lionel;Messi;Delantero;9
+11;Adidas;Predator Accuracy
