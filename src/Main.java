@@ -5,8 +5,7 @@ import java.util.ArrayList;
 public class Main {
     public static ArrayList<Jugador> listaJugadores = new ArrayList<>();
     public static ArrayList<Bota> listaBotas = new ArrayList<>();
-    public static void main(String[] args){
-        JFutbol futbol = new JFutbol();
+    public static void main(String[] args){new JFutbol();
     }
     public static void ordenarBotas(){
         for(int i = 0; i<listaBotas.size(); i++){

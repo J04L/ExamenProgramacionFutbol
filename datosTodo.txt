@@ -1,26 +1,26 @@
-NGolo;Kante;Centrocampista;12;
-Neymar;Junior;Delantero;1;
-Gavi;Paz;Centrocampista;2;
-Luka;Modric;Centrocampista;6;
-Trent;Alexander-Arnold;Defensa;3;
-Federico;Chiesa;Delantero;5;
-Karim;Benzema;Delantero;8;
-Pedri;Gonzalez;Centrocampista;9;
-Bukayo;Saka;Delantero;2;
-Mohamed;Salah;Delantero;8;
-Sergio;Ramos;Defensa;3;
-Phil;Foden;Centrocampista;10;
-Mason;Mount;Centrocampista;1;
-Toni;Kroos;Centrocampista;2;
-Jude;Bellingham;Centrocampista;6;
-Erling;Haaland;Delantero;11;
-Declan;Rice;Centrocampista;9;
-Cristiano;Ronaldo;Delantero;5;
-Vinicius;Junior;Delantero;1;
-Virgil;Van Dijk;Defensa;10;
-Kylian;Mbappe;Delantero;4;
-Casemiro;Leite;Centrocampista;4;
-Robert;Lewandowski;Delantero;7;
-Kevin;De Bruyne;Centrocampista;12;
-Jorginho;Frello;Centrocampista;7;
-Lionel;Messi;Delantero;9;
+NGolo;Kante;Centrocampista;12;Nike;Mercurial Vapor
+Neymar;Junior;Delantero;1;Nike;Mercurial Superfly
+Gavi;Paz;Centrocampista;2;Puma;Ultra
+Luka;Modric;Centrocampista;6;Nike;Tiempo Legend
+Trent;Alexander-Arnold;Defensa;3;Nike;Phantom GT
+Federico;Chiesa;Delantero;5;Adidas;X Speedflow
+Karim;Benzema;Delantero;8;Puma;Xtreme
+Pedri;Gonzalez;Centrocampista;9;Adidas;Predator one
+Bukayo;Saka;Delantero;2;Puma;Ultra
+Mohamed;Salah;Delantero;8;Puma;Xtreme
+Sergio;Ramos;Defensa;3;Nike;Phantom GT
+Phil;Foden;Centrocampista;10;Puma;Radikal
+Mason;Mount;Centrocampista;1;Nike;Mercurial Superfly
+Toni;Kroos;Centrocampista;2;Puma;Ultra
+Jude;Bellingham;Centrocampista;6;Nike;Tiempo Legend
+Erling;Haaland;Delantero;11;Adidas;Predator Accuracy
+Declan;Rice;Centrocampista;9;Adidas;Predator one
+Cristiano;Ronaldo;Delantero;5;Adidas;X Speedflow
+Vinicius;Junior;Delantero;1;Nike;Mercurial Superfly
+Virgil;Van Dijk;Defensa;10;Puma;Radikal
+Kylian;Mbappe;Delantero;4;Puma;Future
+Casemiro;Leite;Centrocampista;4;Puma;Future
+Robert;Lewandowski;Delantero;7;Adidas;Copa Sense
+Kevin;De Bruyne;Centrocampista;12;Nike;Mercurial Vapor
+Jorginho;Frello;Centrocampista;7;Adidas;Copa Sense
+Lionel;Messi;Delantero;9;Adidas;Predator one

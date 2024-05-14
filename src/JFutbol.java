@@ -30,33 +30,21 @@ public class JFutbol extends JFrame implements ActionListener {
             @Override
             public void mouseClicked(MouseEvent e) {
                 int num_fila = tablaJugadores.getSelectedRow();
-                Vector<Object> datos = modeloTablaJugadores.getDataVector().elementAt(num_fila);
+                Vector datos = modeloTablaJugadores.getDataVector().elementAt(num_fila);
                 int id_bota = Integer.parseInt(datos.elementAt(3)+"");
                 listaBotas.setSelectedIndex(id_bota-1);
 
                 infoJugadorTextField.setText(datos.get(0) + " " + datos.get(1));
-                infoBotaTextField.setText(Main.listaBotas.get(id_bota).toString());
+                infoBotaTextField.setText(Main.listaBotas.get(id_bota-1).toString());
             }
-
             @Override
-            public void mousePressed(MouseEvent e) {
-
-            }
-
+            public void mousePressed(MouseEvent e) {}
             @Override
-            public void mouseReleased(MouseEvent e) {
-
-            }
-
+            public void mouseReleased(MouseEvent e) {}
             @Override
-            public void mouseEntered(MouseEvent e) {
-
-            }
-
+            public void mouseEntered(MouseEvent e) {}
             @Override
-            public void mouseExited(MouseEvent e) {
-
-            }
+            public void mouseExited(MouseEvent e) {}
         });
 
         guardarBotaEnJugadorButton.addActionListener(this);
